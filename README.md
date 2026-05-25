@@ -2,7 +2,13 @@
 
 ***! this is just in the alpha phase!***
 
-simple key value store with indexing capability.
+[![Crates.io](https://img.shields.io/crates/v/neodb.svg)](https://crates.io/crates/neodb)
+[![Documentation](https://docs.rs/neodb/badge.svg)](https://docs.rs/neodb/) 
+[![GitHub Repository](https://img.shields.io/badge/github-neodb--rust-blue?logo=github)](https://github.com/eyukselen/neodb-rust)
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+
+
+Simple key value store with indexing capability.
 
 
 ## Features
