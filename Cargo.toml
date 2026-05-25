@@ -1,6 +1,6 @@
 [package]
 name = "neodb"
-version = "0.1.0"
+version = "0.1.0-alpha.1"
 edition = "2024"
 description = "A fast, lightweight key-value database written in Rust. (Work in Progress)"
 license = "MIT"
@@ -8,6 +8,7 @@ repository = "https://github.com/eyukselen/neodb-rust"
 readme = "README.md"
 keywords = ["database", "key-value", "wip"]
 categories = ["database-implementations"]
+documentation = "https://docs.rs/neodb"
 
 [lib]
 name = "neodb"
